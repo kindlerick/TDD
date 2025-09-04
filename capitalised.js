@@ -5,4 +5,3 @@ function capitalised(str) {
   
   module.exports = capitalised;
 
-
